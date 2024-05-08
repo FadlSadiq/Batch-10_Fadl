@@ -12,6 +12,6 @@ public class Job
     }
     public virtual void Pick()
     {
-        Console.WriteLine("Choose your Character");
+        Console.WriteLine($"Choose your Character {weapon}");
     }
 }
