@@ -2,12 +2,12 @@ namespace Monster;
 
 public class HobGoblin : Body
 {
-    public override void Colour()
+    public override void Colour(string colour)
     {
-        Console.WriteLine($"Hobglobin colour is Hijau");
+        Console.WriteLine($"This monster colour is {colour}");
     }
-        public void Test(string shape)
+    public override void ChangeShape(string shape)
     {
-        Console.WriteLine("This monster shape is " + shape);
+        Console.WriteLine($"This monster shape is {shape}");
     }
 }

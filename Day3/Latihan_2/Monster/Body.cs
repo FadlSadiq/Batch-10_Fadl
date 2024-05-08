@@ -2,9 +2,9 @@ namespace Monster;
 
 public abstract class Body
 {
-    public abstract void Colour();
-    public virtual void ChangeColour(string Color)
+    public abstract void Colour(string colour);
+    public virtual void ChangeShape(string shape)
     {
-        Console.WriteLine("This monster colour is " + Color);
+        Console.WriteLine("This monster shape is square");
     }
 }

@@ -10,8 +10,12 @@ public class Darkslime : Body, ICharacter
     {
         Console.WriteLine($"The skill for goblin is {skill}");
     }
-    public override void Colour()
+    public override void Colour(string colour)
     {
-        Console.WriteLine($"DarkSlime colour is Black");
+        Console.WriteLine($"This monster colour is {colour}");
+    }
+    public override void ChangeShape(string shape)
+    {
+        Console.WriteLine($"This monster shape is {shape}");
     }
 }
