@@ -1,0 +1,41 @@
+class Car1
+{
+    static void ()
+    {
+        Car ford = new Car("mustang", 1969, "red");
+        Car toyota = new Car("supra", 2000, "silver");
+        ford.Move();
+        toyota.Move();
+        ford.specialMove(ford.carBrand, ford.bodyColour);
+        toyota.specialMove(toyota.yearBuilt);
+    }
+}
+
+class Car
+{
+    public string carBrand;
+    public int yearBuilt;
+    public string bodyColour;
+
+    public Car(string carBrand, int year, string colour)
+    {
+        this.carBrand = carBrand;
+        yearBuilt = year;
+        bodyColour = colour;
+    }
+
+    public void Move()
+    {
+        Console.WriteLine("This " + bodyColour + " " + carBrand + " was built in " + yearBuilt);
+    }
+
+    public void specialMove(string carBrand, string bodyColour)
+    {
+        Console.WriteLine("This " + bodyColour + " " + carBrand);
+    }
+
+    public void specialMove(int yearBuilt)
+    {
+        Console.WriteLine("was built in " + yearBuilt);
+    }
+}

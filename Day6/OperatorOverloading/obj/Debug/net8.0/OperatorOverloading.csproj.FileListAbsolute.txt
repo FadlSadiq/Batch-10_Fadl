@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.sourcelink.json
+D:\Batch 10_Fadl\Day6\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.exe
+D:\Batch 10_Fadl\Day6\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.deps.json
+D:\Batch 10_Fadl\Day6\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.runtimeconfig.json
+D:\Batch 10_Fadl\Day6\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.dll
+D:\Batch 10_Fadl\Day6\OperatorOverloading\bin\Debug\net8.0\OperatorOverloading.pdb
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.dll
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\refint\OperatorOverloading.dll
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.pdb
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\OperatorOverloading.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day6\OperatorOverloading\obj\Debug\net8.0\ref\OperatorOverloading.dll

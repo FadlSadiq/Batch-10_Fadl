@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\Properties.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\Properties.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\Properties.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\Properties.sourcelink.json
+D:\Batch 10_Fadl\Day5\Properties\bin\Debug\net8.0\Properties.exe
+D:\Batch 10_Fadl\Day5\Properties\bin\Debug\net8.0\Properties.deps.json
+D:\Batch 10_Fadl\Day5\Properties\bin\Debug\net8.0\Properties.runtimeconfig.json
+D:\Batch 10_Fadl\Day5\Properties\bin\Debug\net8.0\Properties.dll
+D:\Batch 10_Fadl\Day5\Properties\bin\Debug\net8.0\Properties.pdb
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\Properties.dll
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\refint\Properties.dll
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\Properties.pdb
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\Properties.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day5\Properties\obj\Debug\net8.0\ref\Properties.dll

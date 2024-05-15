@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day6\Latihan_2\bin\Debug\net8.0\Latihan_2.exe
+D:\Batch 10_Fadl\Day6\Latihan_2\bin\Debug\net8.0\Latihan_2.deps.json
+D:\Batch 10_Fadl\Day6\Latihan_2\bin\Debug\net8.0\Latihan_2.runtimeconfig.json
+D:\Batch 10_Fadl\Day6\Latihan_2\bin\Debug\net8.0\Latihan_2.dll
+D:\Batch 10_Fadl\Day6\Latihan_2\bin\Debug\net8.0\Latihan_2.pdb
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\Latihan_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\Latihan_2.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\Latihan_2.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\Latihan_2.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\Latihan_2.sourcelink.json
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\Latihan_2.dll
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\refint\Latihan_2.dll
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\Latihan_2.pdb
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\Latihan_2.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day6\Latihan_2\obj\Debug\net8.0\ref\Latihan_2.dll

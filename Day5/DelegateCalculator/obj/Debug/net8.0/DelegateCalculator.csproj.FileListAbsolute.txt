@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\DelegateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\DelegateCalculator.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\DelegateCalculator.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\DelegateCalculator.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\DelegateCalculator.sourcelink.json
+D:\Batch 10_Fadl\Day5\DelegateCalculator\bin\Debug\net8.0\DelegateCalculator.exe
+D:\Batch 10_Fadl\Day5\DelegateCalculator\bin\Debug\net8.0\DelegateCalculator.deps.json
+D:\Batch 10_Fadl\Day5\DelegateCalculator\bin\Debug\net8.0\DelegateCalculator.runtimeconfig.json
+D:\Batch 10_Fadl\Day5\DelegateCalculator\bin\Debug\net8.0\DelegateCalculator.dll
+D:\Batch 10_Fadl\Day5\DelegateCalculator\bin\Debug\net8.0\DelegateCalculator.pdb
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\DelegateCalculator.dll
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\refint\DelegateCalculator.dll
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\DelegateCalculator.pdb
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\DelegateCalculator.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day5\DelegateCalculator\obj\Debug\net8.0\ref\DelegateCalculator.dll

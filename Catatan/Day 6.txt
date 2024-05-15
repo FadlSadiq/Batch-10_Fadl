@@ -1,0 +1,15 @@
+analyze : menganalisa masalah yang dihadapi
+design  : menentukan field dan method dari kelas
+
+Definisi SOLID pada : S yaitu single responsibility
+
+enumerator adalah object yang bisa menjadi pointer untuk menelusuri collection
+objek yang mengimplementasikan System.Collection.IEnumerator(current, MoveNext, Reset, Dispose(disposable))
+co/ int[] arr = new int[]
+
+iterator ada yield returnnya
+
+O(n) : harus dicari dulu
+O(1) : langsung dapat nilainya
+
+semua yang key value pair co/ Dictionary<string, int> string sebagai key dan int sebagai value

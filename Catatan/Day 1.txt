@@ -1,0 +1,13 @@
+OOP 4 pilar:
+Encapsulation = menyembunyikan kompleksitas, tidak perlu tau dalamnya method, membungkus, field (variable) and method (function)
+Polymorphism =  banyak bentuk(overloading = parameter berbeda, overriding = mengganti)
+Inheritance = pewarisan (parent class, child class)
+Abstraction = mengabstraksi (ada suatu method yang penerapannya berbeda berdasarkan class)
+
+Class & Object
+Class yaitu type, bisa diisi field dan method. Intinya logical think
+
+cat caty = new cat(), jika cat diawal sebagai penjelasan tipe classnya, cat diakhir mempermudah pembacaan code
+
+access modifier:
+private, public, protected, protected internal

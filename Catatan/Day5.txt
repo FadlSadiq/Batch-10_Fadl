@@ -1,0 +1,25 @@
+Nested type : special occasion (lebih baik menggunakan 4 metode pillar), memanggil dirinya sendiri (didalam if ada if lagi)
+
+method signature : return value, jumlah parameter dan tipe data parameternya
+kalau mau manggil delegate gunakan Invoke() bukan Console.WriteLine
+
+thread
+
+invoke = buat thread baru untuk menjalankan object 
+? = untuk pengecekan null
+
+terdapat 4 macam delegate default, yang sering dipake action dan function
+action = 
+
+class yang menyampaikan = publisher
+class yang melakukan handling = subscriber
+
+tipe tipe error
+- compile error : type, syntax
+- runtime error : exception, 
+- human error : logic 
+
+try catch logging throw finally
+- Finally : tetap menjalankan program ada error maupun tidak
+
+properties : encapsulate
