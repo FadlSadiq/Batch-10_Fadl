@@ -1,0 +1,34 @@
+class Calculator
+{
+    public int Add(params int[] numbers)
+    {
+        int sum = 0;
+        foreach(int i in numbers)
+        {
+            sum += i;
+        }
+        return sum;
+    }
+        public int Add(params string[] numbersStrings)
+    {
+        int sum = 0;
+        foreach(string i in numbersStrings)
+        {
+            int number = int.Parse(i);
+            sum += number;
+        }
+        return sum;
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Calculator clc = new();
+        Console.WriteLine(clc.Add(1, 2, 3, 4, 5));
+
+        Calculator clcc = new();
+        Console.WriteLine(clcc.Add("1", "2", "3", "4", "5"));
+    }
+}

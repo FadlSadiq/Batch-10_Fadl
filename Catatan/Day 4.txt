@@ -1,0 +1,62 @@
+swap(int x, int y)
+int swap = x;
+x=y;
+y = swap;
+
+program{
+int x = 7, y = 6;
+swap(x,y) // error
+}
+
+------------------
+
+swap(object x, objext y) //tidak efisien karena terjadi boxing dan unboxing ( memori tersimpan di Heap)
+object swap = x;
+x=y;
+y = swap;
+
+value type disimpan di stack (penyimpanan last in first out/LIFO, diatur OS) ---> memory terbatas 
+reference type disimpan di heap (penyimpanan acak, diatur .NET) ----> memori dinamis
+
+saat proses boxing, yang disimpan di stack ---> alamat ke a
+		    yang disimpan di heap ---> value dari a
+
+memori stack itu sekitar KB
+
+T itu generic
+
+co/ Calculator clc = new();
+
+Calculator di tulis karena type safety untuk ke compiler
+
+dynamic termasuk expensive namun digunakan jika tidak diketahui typenya seperti apa setelah melalui run
+co/ API Eksternal
+
+var dapat ditulis seperti berikut co/ var clc = new Calculator();
+var dapat menggantikan type dari sekian banyak type, penentuan var pada tipe tersebut melalui kata akhir setelah *new*
+
+instantiate (merujukkan) : mengalokasikan memori variabel
+
+kalau struct tidak bisa di inheritance
+
+string termasuk reference karena immutable dan collection of char
+
+Generic Constraint
+Data type struct
+public struct Coordinate;
+{double 
+
+ref in out :  mengontrol argumen yang sudah digunakan mau diapakan
+
+enum (type)
+-enumeration -->> bisa mengambil nilai maju maju terus sampai habis
+- custome type
+- value type
+- data yang memiliki urutan yang urut dan tipe data integer
+- konstanta integer : tidak bisa diganti sampai akhir program
+
+underlying value, contohnya pada enum
+
+enum tidak bisa inheritance, karena sifatnya terkunci sehingga bisa menjadi nilainya. Di desain untuk ringan dan efisien, sering dipake untuk mengganti literal angka, contoh seperti 404, 403, 200 kedalam bentuk byte.
+
+Add(Params int[] number)

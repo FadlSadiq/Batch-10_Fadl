@@ -1,0 +1,3 @@
+Requirement
+Wajib mengimplementasikan OOP dan abstraction
+wajib menggunakan delegate

@@ -1,0 +1,132 @@
+---
+title : Yu-Gi-Oh!
+---
+classDiagram
+    IPlayer <|.. Player
+    Card <|-- Monster
+    Card <|-- Spell
+    Card <|-- Trap
+    ICard <|.. Card
+    State --> Card
+    StatusCard <|.. Spell
+    StatusCard <|.. Trap
+    Board o-- Card
+    Zone ..* Board
+    Phase ..* Board
+    Position ..* Card
+    PlayerTurn ..> Player
+    IMonste r<|.. Monster
+    Player "1" --> "40..81" Card
+
+    class Player{
+    +int age
+    +String gender
+    +IsWinning() bool
+    +Damaged()
+    }
+
+    class IPlayer{
+    <<Interface>>
+    +~get;~ int Id
+    +~get;~ string Name
+    }
+
+    class PlayerTurn{
+    <<enum>>
+    Play
+    Wait
+    End
+    }
+
+    class Card{
+    Position position
+    State condition
+    +string cardElement
+    +string cardColour
+    +Discard()
+    +Ban()
+    +Summon()
+    }
+
+    class Monster{
+        -int monsterStar
+        +int monsterAttack
+        +int monsterDefense
+        +Attack()
+        +Defense()
+    }
+    class Spell{
+        +QuickPlay()
+        +Equip()
+        +Ritual()
+        +Field()
+    }
+
+    class Trap{
+        +Counter()
+    }
+
+    class StatusCard{
+        +string status
+        +string type
+        Normal()
+        Continous()
+    }
+
+    class IMonster{
+        +string effect
+    }
+
+    class ICard{
+    <<Interface>>
+    +~get;~ string cardName
+    +~get;~ int id
+    +Flip()
+    }
+
+    class Phase{
+    <<enum>>
+    DrawPhase
+    StandbyPhase
+    MainPhase1
+    BattlePhase
+    MainPhase2
+    EndPhase
+    }
+
+    class Zone{
+    <<enum>>
+    Deck
+    Graveyard
+    Ban
+    Monster
+    Spell_&_Trap
+    Fusion
+    Field
+    Extra_Monster
+    }
+
+    class Board{
+    Zone Location
+    Phase phase
+    isAvalaible() bool
+    }
+
+    class State{
+    <<enum>>
+    Face_UP_Attack_Position
+    Face_UP_Defense_Position
+    Face_Down_Attack_Position
+    Face_Down_Defense_Position
+    Hand
+    Deck
+    }
+
+    class Position{
+    <<struct>>
+    +~get~int x
+    +~get~int y
+    }
+
+
+

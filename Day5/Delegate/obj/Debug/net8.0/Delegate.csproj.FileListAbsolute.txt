@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day5\Delegate\bin\Debug\net8.0\Delegate.exe
+D:\Batch 10_Fadl\Day5\Delegate\bin\Debug\net8.0\Delegate.deps.json
+D:\Batch 10_Fadl\Day5\Delegate\bin\Debug\net8.0\Delegate.runtimeconfig.json
+D:\Batch 10_Fadl\Day5\Delegate\bin\Debug\net8.0\Delegate.dll
+D:\Batch 10_Fadl\Day5\Delegate\bin\Debug\net8.0\Delegate.pdb
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\Delegate.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\Delegate.sourcelink.json
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\Delegate.dll
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\refint\Delegate.dll
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\Delegate.pdb
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\Delegate.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day5\Delegate\obj\Debug\net8.0\ref\Delegate.dll

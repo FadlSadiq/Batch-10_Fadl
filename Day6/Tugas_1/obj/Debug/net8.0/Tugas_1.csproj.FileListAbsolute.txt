@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\Tugas_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\Tugas_1.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\Tugas_1.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\Tugas_1.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\Tugas_1.sourcelink.json
+D:\Batch 10_Fadl\Day6\Tugas_1\bin\Debug\net8.0\Tugas_1.exe
+D:\Batch 10_Fadl\Day6\Tugas_1\bin\Debug\net8.0\Tugas_1.deps.json
+D:\Batch 10_Fadl\Day6\Tugas_1\bin\Debug\net8.0\Tugas_1.runtimeconfig.json
+D:\Batch 10_Fadl\Day6\Tugas_1\bin\Debug\net8.0\Tugas_1.dll
+D:\Batch 10_Fadl\Day6\Tugas_1\bin\Debug\net8.0\Tugas_1.pdb
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\Tugas_1.dll
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\refint\Tugas_1.dll
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\Tugas_1.pdb
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\Tugas_1.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day6\Tugas_1\obj\Debug\net8.0\ref\Tugas_1.dll

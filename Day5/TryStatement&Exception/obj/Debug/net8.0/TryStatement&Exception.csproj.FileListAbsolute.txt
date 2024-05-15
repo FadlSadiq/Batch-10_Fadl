@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\bin\Debug\net8.0\TryStatement&Exception.exe
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\bin\Debug\net8.0\TryStatement&Exception.deps.json
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\bin\Debug\net8.0\TryStatement&Exception.runtimeconfig.json
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\bin\Debug\net8.0\TryStatement&Exception.dll
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\bin\Debug\net8.0\TryStatement&Exception.pdb
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\TryStatement&Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\TryStatement&Exception.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\TryStatement&Exception.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\TryStatement&Exception.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\TryStatement&Exception.sourcelink.json
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\TryStatement&Exception.dll
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\refint\TryStatement&Exception.dll
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\TryStatement&Exception.pdb
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\TryStatement&Exception.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day5\TryStatement&Exception\obj\Debug\net8.0\ref\TryStatement&Exception.dll

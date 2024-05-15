@@ -1,0 +1,39 @@
+value type:
+- represent the actual data values themselves, and they are stored directly in memory where the variable is declared. co/ int, float, bool, enums, char, dll
+
+reference type
+- category of data types that store references (memory addresses) to the actual data on the heap. co/ string
+
+string termasuk reference type
+- karena termasuk immutable (tidak dapat di edit)
+
+string builder jika ingin menambahkan sesuatu pada string sebelumnya agar tidak menambahkan alamat memori
+
+Polymorphism
+a. Overloading (statis)
+- nama methodnya sama, namun jumlah parameter dan tipe parameter dapat berbeda
+b. Overriding (dynamic)
+- nama methodnya sama namun memodifikasi virtual diturunkan dari kelas parent
+
+
+-abstract class
+-interface
+
+Dalam penulisan interface gunakan I pada depan penamaan class, co/ interface IShape
+
+Abstraction : proses mengabstraksi
+
+
+Boxing & Unboxing
+Boxing
+- int a; //value type
+- object b; //reference
+- b = a //boxing
+- int c;
+- c = (int)b //unboxing
+
+string NIK = "123456789"
+int nik = int.Parse(NIK);
+string NIKK = nik.ToString();
+
+keuntungan static : supaya tidak bisa diimplementasikan oleh metode lain
