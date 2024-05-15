@@ -1,0 +1,15 @@
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\FooBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\FooBar.AssemblyInfoInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\FooBar.AssemblyInfo.cs
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\FooBar.csproj.CoreCompileInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\FooBar.sourcelink.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\bin\Debug\net8.0\FooBar.exe
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\bin\Debug\net8.0\FooBar.deps.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\bin\Debug\net8.0\FooBar.runtimeconfig.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\bin\Debug\net8.0\FooBar.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\bin\Debug\net8.0\FooBar.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\FooBar.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\refint\FooBar.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\FooBar.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\FooBar.genruntimeconfig.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\FooBar\obj\Debug\net8.0\ref\FooBar.dll
