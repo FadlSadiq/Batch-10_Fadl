@@ -109,11 +109,12 @@ classDiagram
     }
 
     class Card{
-    State condition
+    StateCard state
+    CardStatus status
     Position position
     +int Id ~get; private set~
     +string CardElement ~get; private set;~
-    +string CardColour ~get; private set;
+    +string CardColour ~get; private set;~
     +string Effect ~get; private set;~
     +bool CanSummon ~get; private set~
     +SetStatus(CardStatus status)
@@ -139,7 +140,6 @@ classDiagram
     }
 
     class ISpelltrapCard{
-        +List
         +string type
         Normal()
         Continous()
@@ -212,7 +212,7 @@ classDiagram
     -bool _occupied
     +Square(int Id, bool occupied = false)
     +GetSquareId() : int
-    +AddCard(int pieceId) bool
+    +AddCard(int cardId) bool
     +GetCard() List~ICard~
     +IsOccupied()
     +Occupy() 
