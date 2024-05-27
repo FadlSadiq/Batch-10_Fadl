@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day13\Debugging\bin\Debug\net8.0\Debugging.exe
+D:\Batch 10_Fadl\Day13\Debugging\bin\Debug\net8.0\Debugging.deps.json
+D:\Batch 10_Fadl\Day13\Debugging\bin\Debug\net8.0\Debugging.runtimeconfig.json
+D:\Batch 10_Fadl\Day13\Debugging\bin\Debug\net8.0\Debugging.dll
+D:\Batch 10_Fadl\Day13\Debugging\bin\Debug\net8.0\Debugging.pdb
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\Debugging.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\Debugging.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\Debugging.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\Debugging.sourcelink.json
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\Debugging.dll
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\refint\Debugging.dll
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\Debugging.pdb
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\Debugging.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day13\Debugging\obj\Debug\net8.0\ref\Debugging.dll

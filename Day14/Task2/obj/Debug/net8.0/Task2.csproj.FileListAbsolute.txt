@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day14\Task2\bin\Debug\net8.0\Task2.exe
+D:\Batch 10_Fadl\Day14\Task2\bin\Debug\net8.0\Task2.deps.json
+D:\Batch 10_Fadl\Day14\Task2\bin\Debug\net8.0\Task2.runtimeconfig.json
+D:\Batch 10_Fadl\Day14\Task2\bin\Debug\net8.0\Task2.dll
+D:\Batch 10_Fadl\Day14\Task2\bin\Debug\net8.0\Task2.pdb
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\Task2.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\Task2.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\Task2.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\Task2.sourcelink.json
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\Task2.dll
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\refint\Task2.dll
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\Task2.pdb
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\Task2.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day14\Task2\obj\Debug\net8.0\ref\Task2.dll

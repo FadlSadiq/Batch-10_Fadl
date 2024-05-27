@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\bin\Debug\net8.0\MiniProjectThreading.exe
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\bin\Debug\net8.0\MiniProjectThreading.deps.json
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\bin\Debug\net8.0\MiniProjectThreading.runtimeconfig.json
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\bin\Debug\net8.0\MiniProjectThreading.dll
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\bin\Debug\net8.0\MiniProjectThreading.pdb
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\MiniProjectThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\MiniProjectThreading.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\MiniProjectThreading.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\MiniProjectThreading.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\MiniProjectThreading.sourcelink.json
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\MiniProjectThreading.dll
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\refint\MiniProjectThreading.dll
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\MiniProjectThreading.pdb
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\MiniProjectThreading.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day14\MiniProjectThreading\obj\Debug\net8.0\ref\MiniProjectThreading.dll

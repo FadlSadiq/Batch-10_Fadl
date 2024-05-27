@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day14\PropertyTask\bin\Debug\net8.0\PropertyTask.exe
+D:\Batch 10_Fadl\Day14\PropertyTask\bin\Debug\net8.0\PropertyTask.deps.json
+D:\Batch 10_Fadl\Day14\PropertyTask\bin\Debug\net8.0\PropertyTask.runtimeconfig.json
+D:\Batch 10_Fadl\Day14\PropertyTask\bin\Debug\net8.0\PropertyTask.dll
+D:\Batch 10_Fadl\Day14\PropertyTask\bin\Debug\net8.0\PropertyTask.pdb
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\PropertyTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\PropertyTask.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\PropertyTask.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\PropertyTask.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\PropertyTask.sourcelink.json
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\PropertyTask.dll
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\refint\PropertyTask.dll
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\PropertyTask.pdb
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\PropertyTask.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day14\PropertyTask\obj\Debug\net8.0\ref\PropertyTask.dll

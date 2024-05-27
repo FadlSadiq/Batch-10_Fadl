@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\Yugioh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\Yugioh.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\Yugioh.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\Yugioh.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\Yugioh.sourcelink.json
+D:\Batch 10_Fadl\Day11\Yugioh\bin\Debug\net8.0\Yugioh.exe
+D:\Batch 10_Fadl\Day11\Yugioh\bin\Debug\net8.0\Yugioh.deps.json
+D:\Batch 10_Fadl\Day11\Yugioh\bin\Debug\net8.0\Yugioh.runtimeconfig.json
+D:\Batch 10_Fadl\Day11\Yugioh\bin\Debug\net8.0\Yugioh.dll
+D:\Batch 10_Fadl\Day11\Yugioh\bin\Debug\net8.0\Yugioh.pdb
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\Yugioh.dll
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\refint\Yugioh.dll
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\Yugioh.pdb
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\Yugioh.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day11\Yugioh\obj\Debug\net8.0\ref\Yugioh.dll

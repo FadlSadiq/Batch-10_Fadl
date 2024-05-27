@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\MultiThreading.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\MultiThreading.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\MultiThreading.sourcelink.json
+D:\Batch 10_Fadl\Day14\MultiThreading\bin\Debug\net8.0\MultiThreading.exe
+D:\Batch 10_Fadl\Day14\MultiThreading\bin\Debug\net8.0\MultiThreading.deps.json
+D:\Batch 10_Fadl\Day14\MultiThreading\bin\Debug\net8.0\MultiThreading.runtimeconfig.json
+D:\Batch 10_Fadl\Day14\MultiThreading\bin\Debug\net8.0\MultiThreading.dll
+D:\Batch 10_Fadl\Day14\MultiThreading\bin\Debug\net8.0\MultiThreading.pdb
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\MultiThreading.dll
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\refint\MultiThreading.dll
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\MultiThreading.pdb
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\MultiThreading.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day14\MultiThreading\obj\Debug\net8.0\ref\MultiThreading.dll

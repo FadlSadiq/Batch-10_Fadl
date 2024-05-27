@@ -1,3 +1,14 @@
-Requirement
-Wajib mengimplementasikan OOP dan abstraction
-wajib menggunakan delegate
+GameController : +PlayerWinning()
+GameController : maksimal decknya di buat methodnya
+interface : gabisa ditulis private
+dibuat 1 mode saja
+Listplayer dihapus
+playernumber diganti maxplayer
+getTOtalPLayer
+shufflecard(Iplayer)
+nanti dibuatkan squarenya yang masuk ke dalam boardnya
+
+method Attacked : GameController
+Class Hand
+Method ChangePosition : GAmecontroller
+Method RemoveCardHand : GameCOntroller

@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day13\Stopwatch\bin\Debug\net8.0\Stopwatch.exe
+D:\Batch 10_Fadl\Day13\Stopwatch\bin\Debug\net8.0\Stopwatch.deps.json
+D:\Batch 10_Fadl\Day13\Stopwatch\bin\Debug\net8.0\Stopwatch.runtimeconfig.json
+D:\Batch 10_Fadl\Day13\Stopwatch\bin\Debug\net8.0\Stopwatch.dll
+D:\Batch 10_Fadl\Day13\Stopwatch\bin\Debug\net8.0\Stopwatch.pdb
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\Stopwatch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\Stopwatch.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\Stopwatch.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\Stopwatch.sourcelink.json
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\Stopwatch.dll
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\refint\Stopwatch.dll
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\Stopwatch.pdb
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\Stopwatch.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day13\Stopwatch\obj\Debug\net8.0\ref\Stopwatch.dll

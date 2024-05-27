@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day14\LockMultiThreading\bin\Debug\net8.0\LockMultiThreading.exe
+D:\Batch 10_Fadl\Day14\LockMultiThreading\bin\Debug\net8.0\LockMultiThreading.deps.json
+D:\Batch 10_Fadl\Day14\LockMultiThreading\bin\Debug\net8.0\LockMultiThreading.runtimeconfig.json
+D:\Batch 10_Fadl\Day14\LockMultiThreading\bin\Debug\net8.0\LockMultiThreading.dll
+D:\Batch 10_Fadl\Day14\LockMultiThreading\bin\Debug\net8.0\LockMultiThreading.pdb
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\LockMultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\LockMultiThreading.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\LockMultiThreading.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\LockMultiThreading.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\LockMultiThreading.sourcelink.json
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\LockMultiThreading.dll
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\refint\LockMultiThreading.dll
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\LockMultiThreading.pdb
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\LockMultiThreading.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day14\LockMultiThreading\obj\Debug\net8.0\ref\LockMultiThreading.dll
