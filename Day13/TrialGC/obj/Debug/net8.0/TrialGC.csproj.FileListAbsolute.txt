@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day13\TrialGC\bin\Debug\net8.0\TrialGC.exe
+D:\Batch 10_Fadl\Day13\TrialGC\bin\Debug\net8.0\TrialGC.deps.json
+D:\Batch 10_Fadl\Day13\TrialGC\bin\Debug\net8.0\TrialGC.runtimeconfig.json
+D:\Batch 10_Fadl\Day13\TrialGC\bin\Debug\net8.0\TrialGC.dll
+D:\Batch 10_Fadl\Day13\TrialGC\bin\Debug\net8.0\TrialGC.pdb
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\TrialGC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\TrialGC.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\TrialGC.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\TrialGC.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\TrialGC.sourcelink.json
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\TrialGC.dll
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\refint\TrialGC.dll
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\TrialGC.pdb
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\TrialGC.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day13\TrialGC\obj\Debug\net8.0\ref\TrialGC.dll

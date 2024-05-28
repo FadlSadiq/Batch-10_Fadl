@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day13\GarbageCollector\bin\Debug\net8.0\GarbageCollector.exe
+D:\Batch 10_Fadl\Day13\GarbageCollector\bin\Debug\net8.0\GarbageCollector.deps.json
+D:\Batch 10_Fadl\Day13\GarbageCollector\bin\Debug\net8.0\GarbageCollector.runtimeconfig.json
+D:\Batch 10_Fadl\Day13\GarbageCollector\bin\Debug\net8.0\GarbageCollector.dll
+D:\Batch 10_Fadl\Day13\GarbageCollector\bin\Debug\net8.0\GarbageCollector.pdb
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\GarbageCollector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\GarbageCollector.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\GarbageCollector.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\GarbageCollector.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\GarbageCollector.sourcelink.json
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\GarbageCollector.dll
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\refint\GarbageCollector.dll
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\GarbageCollector.pdb
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\GarbageCollector.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day13\GarbageCollector\obj\Debug\net8.0\ref\GarbageCollector.dll

@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day13\Destructor\bin\Debug\net8.0\Destructor.exe
+D:\Batch 10_Fadl\Day13\Destructor\bin\Debug\net8.0\Destructor.deps.json
+D:\Batch 10_Fadl\Day13\Destructor\bin\Debug\net8.0\Destructor.runtimeconfig.json
+D:\Batch 10_Fadl\Day13\Destructor\bin\Debug\net8.0\Destructor.dll
+D:\Batch 10_Fadl\Day13\Destructor\bin\Debug\net8.0\Destructor.pdb
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\Destructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\Destructor.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\Destructor.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\Destructor.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\Destructor.sourcelink.json
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\Destructor.dll
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\refint\Destructor.dll
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\Destructor.pdb
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\Destructor.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day13\Destructor\obj\Debug\net8.0\ref\Destructor.dll

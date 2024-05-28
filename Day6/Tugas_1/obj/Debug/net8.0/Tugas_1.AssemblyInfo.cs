@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tugas_1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed15eb7097b1e0d2860feb91ef1026affa7c94c1")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2708d7d230849721b853256a469e4c1bf521ed6f")]
+>>>>>>> d0075f8a5d97cfa3c3f0c08e1704ffc3f23a3063
 [assembly: System.Reflection.AssemblyProductAttribute("Tugas_1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tugas_1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

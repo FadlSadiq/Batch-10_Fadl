@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\bin\DEVELOPMENT\net8.0\ConditionalCompilation.exe
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\bin\DEVELOPMENT\net8.0\ConditionalCompilation.deps.json
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\bin\DEVELOPMENT\net8.0\ConditionalCompilation.runtimeconfig.json
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\bin\DEVELOPMENT\net8.0\ConditionalCompilation.dll
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\bin\DEVELOPMENT\net8.0\ConditionalCompilation.pdb
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ConditionalCompilation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ConditionalCompilation.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ConditionalCompilation.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ConditionalCompilation.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ConditionalCompilation.sourcelink.json
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ConditionalCompilation.dll
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\refint\ConditionalCompilation.dll
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ConditionalCompilation.pdb
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ConditionalCompilation.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day13\ConditionalCompilation\obj\DEVELOPMENT\net8.0\ref\ConditionalCompilation.dll

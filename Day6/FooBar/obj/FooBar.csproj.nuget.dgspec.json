@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day6\\FooBar\\FooBar.csproj": {}
+    "D:\\Batch 10_Fadl\\Day6\\FooBar\\FooBar.csproj": {}
   },
   "projects": {
-    "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day6\\FooBar\\FooBar.csproj": {
+    "D:\\Batch 10_Fadl\\Day6\\FooBar\\FooBar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day6\\FooBar\\FooBar.csproj",
+        "projectUniqueName": "D:\\Batch 10_Fadl\\Day6\\FooBar\\FooBar.csproj",
         "projectName": "FooBar",
-        "projectPath": "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day6\\FooBar\\FooBar.csproj",
-        "packagesPath": "C:\\Users\\drwizz\\.nuget\\packages\\",
-        "outputPath": "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day6\\FooBar\\obj\\",
+        "projectPath": "D:\\Batch 10_Fadl\\Day6\\FooBar\\FooBar.csproj",
+        "packagesPath": "C:\\Users\\Batch 10\\.nuget\\packages\\",
+        "outputPath": "D:\\Batch 10_Fadl\\Day6\\FooBar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\drwizz\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Batch 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

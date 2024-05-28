@@ -3,23 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Func", "Func\Func.csproj", "{87F8116C-29F6-4297-9A9A-969A298512C3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TugasFooBar", "Tugas FooBar\Tugas FooBar.csproj", "{C66A52B9-BF38-4046-B624-8D249350FF74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda Expression & Anonymous method", "Lambda Expression\Lambda Expression.csproj", "{10B34867-FE8E-4FE6-BFAA-B0CA65A1E00B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_1", "Latihan_1\Latihan_1.csproj", "{8FF6BF9D-5BC2-4D4C-ACA4-C90E2EB72EAA}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperatorOverloading", "OperatorOverloading\OperatorOverloading.csproj", "{491B3870-E3E3-4710-86B3-6311709D1806}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan_2", "Latihan_2\Latihan_2.csproj", "{A459663F-2B8D-4C10-BDD3-DFCB1CE47A29}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nullable Value", "Nullable Value\Nullable Value.csproj", "{AE587251-4112-401B-9AA7-5664DA1FEA9B}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Partial Class", "Partial Class\Partial Class.csproj", "{26E43756-09CE-4D5F-8BB9-1477CD4C6CD6}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collection", "Collection\Collection.csproj", "{8E15EA6A-E2B4-40F9-8CE9-CECA9B638440}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas_1", "Tugas_1\Tugas_1.csproj", "{6CE9E61A-67CA-41A8-83B6-33B5DA14249E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FooBar", "FooBar\FooBar.csproj", "{995F9A6F-72B6-46DE-9437-0F7BD428F22F}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpression", "LambdaExpression\LambdaExpression.csproj", "{242CCF79-28AA-410C-A5D6-74372A4DA7BA}"
 EndProject
@@ -34,6 +20,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+<<<<<<< HEAD
 		{87F8116C-29F6-4297-9A9A-969A298512C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{87F8116C-29F6-4297-9A9A-969A298512C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{87F8116C-29F6-4297-9A9A-969A298512C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -78,5 +65,15 @@ Global
 		{C4342C10-27ED-4B1B-B267-FCCE15DE1F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C4342C10-27ED-4B1B-B267-FCCE15DE1F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C4342C10-27ED-4B1B-B267-FCCE15DE1F12}.Release|Any CPU.Build.0 = Release|Any CPU
+=======
+		{C66A52B9-BF38-4046-B624-8D249350FF74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C66A52B9-BF38-4046-B624-8D249350FF74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C66A52B9-BF38-4046-B624-8D249350FF74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C66A52B9-BF38-4046-B624-8D249350FF74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{995F9A6F-72B6-46DE-9437-0F7BD428F22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995F9A6F-72B6-46DE-9437-0F7BD428F22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995F9A6F-72B6-46DE-9437-0F7BD428F22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995F9A6F-72B6-46DE-9437-0F7BD428F22F}.Release|Any CPU.Build.0 = Release|Any CPU
+>>>>>>> d0075f8a5d97cfa3c3f0c08e1704ffc3f23a3063
 	EndGlobalSection
 EndGlobal

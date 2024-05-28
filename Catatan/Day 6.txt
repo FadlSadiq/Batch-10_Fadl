@@ -13,3 +13,6 @@ O(n) : harus dicari dulu
 O(1) : langsung dapat nilainya
 
 semua yang key value pair co/ Dictionary<string, int> string sebagai key dan int sebagai value
+
+github.com/rizqifakhri/bootcamp
+
