@@ -1,0 +1,15 @@
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\bin\Debug\net8.0\LambdaExpression.exe
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\bin\Debug\net8.0\LambdaExpression.deps.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\bin\Debug\net8.0\LambdaExpression.runtimeconfig.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\bin\Debug\net8.0\LambdaExpression.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\bin\Debug\net8.0\LambdaExpression.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\LambdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfoInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\LambdaExpression.AssemblyInfo.cs
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\LambdaExpression.csproj.CoreCompileInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\LambdaExpression.sourcelink.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\LambdaExpression.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\refint\LambdaExpression.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\LambdaExpression.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\LambdaExpression.genruntimeconfig.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day6\LambdaExpression\obj\Debug\net8.0\ref\LambdaExpression.dll
