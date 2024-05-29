@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day16\FileStream\bin\Debug\net8.0\FileStream.exe
+D:\Batch 10_Fadl\Day16\FileStream\bin\Debug\net8.0\FileStream.deps.json
+D:\Batch 10_Fadl\Day16\FileStream\bin\Debug\net8.0\FileStream.runtimeconfig.json
+D:\Batch 10_Fadl\Day16\FileStream\bin\Debug\net8.0\FileStream.dll
+D:\Batch 10_Fadl\Day16\FileStream\bin\Debug\net8.0\FileStream.pdb
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\FileStream.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\FileStream.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\FileStream.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\FileStream.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\FileStream.sourcelink.json
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\FileStream.dll
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\refint\FileStream.dll
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\FileStream.pdb
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\FileStream.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day16\FileStream\obj\Debug\net8.0\ref\FileStream.dll
