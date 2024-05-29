@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semaphore", "Semaphore\Semaphore.csproj", "{BC6DA65E-DAB7-4021-9A4E-96AE6B281EEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileStream", "FileStream\FileStream.csproj", "{46A23FD9-CDBB-4E88-8C58-132ACA01EB7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter", "StreamWriter\StreamWriter.csproj", "{F5CF3A97-5722-4B95-B97E-4B53F74A9676}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON Serialization", "JSON Serialization\JSON Serialization.csproj", "{548AB96B-C6B1-4A0A-9979-4B79B10AFBEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML Serialization", "XML Serialization\XML Serialization.csproj", "{6B24D121-77C6-4BA2-BE08-7585D4AAC2AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Contract", "Data Contract\Data Contract.csproj", "{4151F022-FEC8-4AEA-A94B-8D2E6FA2FEFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamWriter2", "StreamWriter2\StreamWriter2.csproj", "{7B06B0EF-5C33-410F-BAB8-1F71C4EB3D76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC6DA65E-DAB7-4021-9A4E-96AE6B281EEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC6DA65E-DAB7-4021-9A4E-96AE6B281EEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC6DA65E-DAB7-4021-9A4E-96AE6B281EEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC6DA65E-DAB7-4021-9A4E-96AE6B281EEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{46A23FD9-CDBB-4E88-8C58-132ACA01EB7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46A23FD9-CDBB-4E88-8C58-132ACA01EB7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46A23FD9-CDBB-4E88-8C58-132ACA01EB7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46A23FD9-CDBB-4E88-8C58-132ACA01EB7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CF3A97-5722-4B95-B97E-4B53F74A9676}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CF3A97-5722-4B95-B97E-4B53F74A9676}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CF3A97-5722-4B95-B97E-4B53F74A9676}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CF3A97-5722-4B95-B97E-4B53F74A9676}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548AB96B-C6B1-4A0A-9979-4B79B10AFBEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548AB96B-C6B1-4A0A-9979-4B79B10AFBEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548AB96B-C6B1-4A0A-9979-4B79B10AFBEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548AB96B-C6B1-4A0A-9979-4B79B10AFBEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B24D121-77C6-4BA2-BE08-7585D4AAC2AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B24D121-77C6-4BA2-BE08-7585D4AAC2AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B24D121-77C6-4BA2-BE08-7585D4AAC2AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B24D121-77C6-4BA2-BE08-7585D4AAC2AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4151F022-FEC8-4AEA-A94B-8D2E6FA2FEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4151F022-FEC8-4AEA-A94B-8D2E6FA2FEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4151F022-FEC8-4AEA-A94B-8D2E6FA2FEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4151F022-FEC8-4AEA-A94B-8D2E6FA2FEFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B06B0EF-5C33-410F-BAB8-1F71C4EB3D76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B06B0EF-5C33-410F-BAB8-1F71C4EB3D76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B06B0EF-5C33-410F-BAB8-1F71C4EB3D76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B06B0EF-5C33-410F-BAB8-1F71C4EB3D76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

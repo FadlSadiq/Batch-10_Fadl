@@ -1,0 +1,15 @@
+D:\Batch 10_Fadl\Day16\StreamWriter\bin\Debug\net8.0\StreamWriter.exe
+D:\Batch 10_Fadl\Day16\StreamWriter\bin\Debug\net8.0\StreamWriter.deps.json
+D:\Batch 10_Fadl\Day16\StreamWriter\bin\Debug\net8.0\StreamWriter.runtimeconfig.json
+D:\Batch 10_Fadl\Day16\StreamWriter\bin\Debug\net8.0\StreamWriter.dll
+D:\Batch 10_Fadl\Day16\StreamWriter\bin\Debug\net8.0\StreamWriter.pdb
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\StreamWriter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\StreamWriter.AssemblyInfoInputs.cache
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\StreamWriter.AssemblyInfo.cs
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\StreamWriter.csproj.CoreCompileInputs.cache
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\StreamWriter.sourcelink.json
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\StreamWriter.dll
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\refint\StreamWriter.dll
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\StreamWriter.pdb
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\StreamWriter.genruntimeconfig.cache
+D:\Batch 10_Fadl\Day16\StreamWriter\obj\Debug\net8.0\ref\StreamWriter.dll
