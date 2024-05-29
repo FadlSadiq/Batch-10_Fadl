@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+frKiRcHkMmtILSeFOkDukeOuLwTOJCzDVSiwYCUAJj972M8kqgc6Dz4o4jGe//oFfV1/rCxUFdJnct5N2nuTg==",
+  "dgSpecHash": "4a88qUiy+rs=",
   "success": true,
-  "projectFilePath": "D:\\Batch 10_Fadl\\Day5\\DelegateCalculator\\DelegateCalculator.csproj",
+  "projectFilePath": "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day5\\DelegateCalculator\\DelegateCalculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
