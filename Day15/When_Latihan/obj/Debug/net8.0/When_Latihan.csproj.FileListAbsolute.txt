@@ -1,0 +1,15 @@
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\When_Latihan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\When_Latihan.AssemblyInfoInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\When_Latihan.AssemblyInfo.cs
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\When_Latihan.csproj.CoreCompileInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\When_Latihan.sourcelink.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\bin\Debug\net8.0\When_Latihan.exe
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\bin\Debug\net8.0\When_Latihan.deps.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\bin\Debug\net8.0\When_Latihan.runtimeconfig.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\bin\Debug\net8.0\When_Latihan.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\bin\Debug\net8.0\When_Latihan.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\When_Latihan.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\refint\When_Latihan.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\When_Latihan.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\When_Latihan.genruntimeconfig.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When_Latihan\obj\Debug\net8.0\ref\When_Latihan.dll

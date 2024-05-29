@@ -1,0 +1,15 @@
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\bin\Debug\net8.0\When.exe
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\bin\Debug\net8.0\When.deps.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\bin\Debug\net8.0\When.runtimeconfig.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\bin\Debug\net8.0\When.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\bin\Debug\net8.0\When.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\When.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\When.AssemblyInfoInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\When.AssemblyInfo.cs
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\When.csproj.CoreCompileInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\When.sourcelink.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\When.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\refint\When.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\When.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\When.genruntimeconfig.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\When\obj\Debug\net8.0\ref\When.dll

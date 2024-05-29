@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Batch 10_Fadl\\Day14\\Task1\\Task1.csproj": {}
+    "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day14\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "D:\\Batch 10_Fadl\\Day14\\Task1\\Task1.csproj": {
+    "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day14\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Batch 10_Fadl\\Day14\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day14\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "D:\\Batch 10_Fadl\\Day14\\Task1\\Task1.csproj",
-        "packagesPath": "C:\\Users\\Batch 10\\.nuget\\packages\\",
-        "outputPath": "D:\\Batch 10_Fadl\\Day14\\Task1\\obj\\",
+        "projectPath": "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day14\\Task1\\Task1.csproj",
+        "packagesPath": "C:\\Users\\drwizz\\.nuget\\packages\\",
+        "outputPath": "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Day14\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Batch 10\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\drwizz\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

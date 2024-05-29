@@ -1,0 +1,15 @@
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\Deadlock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\Deadlock.AssemblyInfoInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\Deadlock.AssemblyInfo.cs
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\Deadlock.csproj.CoreCompileInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\Deadlock.sourcelink.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\bin\Debug\net8.0\Deadlock.exe
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\bin\Debug\net8.0\Deadlock.deps.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\bin\Debug\net8.0\Deadlock.runtimeconfig.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\bin\Debug\net8.0\Deadlock.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\bin\Debug\net8.0\Deadlock.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\Deadlock.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\refint\Deadlock.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\Deadlock.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\Deadlock.genruntimeconfig.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day15\Deadlock\obj\Debug\net8.0\ref\Deadlock.dll
