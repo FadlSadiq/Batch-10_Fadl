@@ -1,0 +1,15 @@
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\bin\Debug\net8.0\Dummy.exe
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\bin\Debug\net8.0\Dummy.deps.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\bin\Debug\net8.0\Dummy.runtimeconfig.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\bin\Debug\net8.0\Dummy.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\bin\Debug\net8.0\Dummy.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\Dummy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\Dummy.AssemblyInfoInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\Dummy.AssemblyInfo.cs
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\Dummy.csproj.CoreCompileInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\Dummy.sourcelink.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\Dummy.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\refint\Dummy.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\Dummy.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\Dummy.genruntimeconfig.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Testing Code\Dummy\obj\Debug\net8.0\ref\Dummy.dll
