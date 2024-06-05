@@ -20,7 +20,7 @@ public class Arena : Board
     }
     public Arena()
     {
-
+        
     }
     public Arena(List<Position> positionAvailable)
     {

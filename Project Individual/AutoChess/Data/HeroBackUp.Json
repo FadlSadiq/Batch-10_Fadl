@@ -12,7 +12,7 @@
             "HeroPrice": 1,
             "HeroClass": "Witcher",
             "HeroRace": "Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -26,7 +26,7 @@
             "HeroPrice": 1,
             "HeroClass": "Witcher",
             "HeroRace": "Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -40,7 +40,7 @@
             "HeroPrice": 1,
             "HeroClass": "Witcher",
             "HeroRace": "Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Unicorn": [
@@ -56,7 +56,7 @@
             "HeroPrice": 1,
             "HeroClass": "Druid",
             "HeroRace": "Beast",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -70,7 +70,7 @@
             "HeroPrice": 1,
             "HeroClass": "Druid",
             "HeroRace": "Beast",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -84,7 +84,7 @@
             "HeroPrice": 1,
             "HeroClass": "Druid",
             "HeroRace": "Beast",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Ogre Mage": [
@@ -100,7 +100,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Kira",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -114,7 +114,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Kira",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -128,7 +128,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Kira",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Sky Breaker": [
@@ -144,7 +144,7 @@
             "HeroPrice": 1,
             "HeroClass": "Goblin",
             "HeroRace": "Mech",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -158,7 +158,7 @@
             "HeroPrice": 1,
             "HeroClass": "Goblin",
             "HeroRace": "Mech",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -172,7 +172,7 @@
             "HeroPrice": 1,
             "HeroClass": "Goblin",
             "HeroRace": "Mech",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Redaxa Chief": [
@@ -188,7 +188,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Cave",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -202,7 +202,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Cave",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -216,7 +216,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Cave",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Tusk Champion": [
@@ -232,7 +232,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Beast",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -246,7 +246,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Beast",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -260,7 +260,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Beast",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Taboo Witcher": [
@@ -276,7 +276,7 @@
             "HeroPrice": 1,
             "HeroClass": "Witcher",
             "HeroRace": "Feathered",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -290,7 +290,7 @@
             "HeroPrice": 1,
             "HeroClass": "Witcher",
             "HeroRace": "Feathered",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -304,7 +304,7 @@
             "HeroPrice": 1,
             "HeroClass": "Witcher",
             "HeroRace": "Feathered",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Defector": [
@@ -320,7 +320,7 @@
             "HeroPrice": 1,
             "HeroClass": "Shaman",
             "HeroRace": "Glacier",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -334,7 +334,7 @@
             "HeroPrice": 1,
             "HeroClass": "Shaman",
             "HeroRace": "Glacier",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -348,7 +348,7 @@
             "HeroPrice": 1,
             "HeroClass": "Shaman",
             "HeroRace": "Glacier",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Frost Knight": [
@@ -364,7 +364,7 @@
             "HeroPrice": 1,
             "HeroClass": "Knight",
             "HeroRace": "Glacier",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -378,7 +378,7 @@
             "HeroPrice": 1,
             "HeroClass": "Knight",
             "HeroRace": "Glacier",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -392,7 +392,7 @@
             "HeroPrice": 1,
             "HeroClass": "Knight",
             "HeroRace": "Glacier",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "The Source": [
@@ -408,7 +408,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Human",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -422,7 +422,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Human",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -436,7 +436,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Human",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Egersis Ranger": [
@@ -452,7 +452,7 @@
             "HeroPrice": 1,
             "HeroClass": "Hunter",
             "HeroRace": "Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -466,7 +466,7 @@
             "HeroPrice": 1,
             "HeroClass": "Hunter",
             "HeroRace": "Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -480,7 +480,7 @@
             "HeroPrice": 1,
             "HeroClass": "Hunter",
             "HeroRace": "Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Stone Spirit": [
@@ -496,7 +496,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Spirits",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -510,7 +510,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Spirits",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -524,7 +524,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Spirits",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Heaven Bomber": [
@@ -540,7 +540,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mech",
             "HeroRace": "Goblin",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -554,7 +554,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mech",
             "HeroRace": "Goblin",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -568,7 +568,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mech",
             "HeroRace": "Goblin",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Soul Breaker": [
@@ -584,7 +584,7 @@
             "HeroPrice": 1,
             "HeroClass": "Assassin",
             "HeroRace": "Goblin",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -598,7 +598,7 @@
             "HeroPrice": 1,
             "HeroClass": "Assassin",
             "HeroRace": "Goblin",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -612,7 +612,7 @@
             "HeroPrice": 1,
             "HeroClass": "Assassin",
             "HeroRace": "Goblin",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "God of War": [
@@ -628,7 +628,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Divinity",
-            "HeroRarity": "Rare"
+            "HeroRarity": 2
         },
         {
             "HeroLevel": 2,
@@ -642,7 +642,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Divinity",
-            "HeroRarity": "Rare"
+            "HeroRarity": 2
         },
         {
             "HeroLevel": 3,
@@ -656,7 +656,7 @@
             "HeroPrice": 1,
             "HeroClass": "Warrior",
             "HeroRace": "Divinity",
-            "HeroRarity": "Rare"
+            "HeroRarity": 2
         }
     ],
     "Winter Chiropteran": [
@@ -672,7 +672,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Dragon, Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 2,
@@ -686,7 +686,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Dragon, Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         },
         {
             "HeroLevel": 3,
@@ -700,7 +700,7 @@
             "HeroPrice": 1,
             "HeroClass": "Mage",
             "HeroRace": "Dragon, Egersis",
-            "HeroRarity": "Common"
+            "HeroRarity": 0
         }
     ],
     "Soul Devourer": [
@@ -716,7 +716,7 @@
             "HeroPrice": 2,
             "HeroClass": "Wizard",
             "HeroRace": "Demon",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 2,
@@ -730,7 +730,7 @@
             "HeroPrice": 2,
             "HeroClass": "Wizard",
             "HeroRace": "Demon",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 3,
@@ -744,7 +744,7 @@
             "HeroPrice": 2,
             "HeroClass": "Wizard",
             "HeroRace": "Demon",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         }
     ],
     "Goddess of Light": [
@@ -760,7 +760,7 @@
             "HeroPrice": 2,
             "HeroClass": "Priest",
             "HeroRace": "Divinity",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 2,
@@ -774,7 +774,7 @@
             "HeroPrice": 2,
             "HeroClass": "Priest",
             "HeroRace": "Divinity",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 3,
@@ -788,7 +788,7 @@
             "HeroPrice": 2,
             "HeroClass": "Priest",
             "HeroRace": "Divinity",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         }
     ],
     "Light Blade": [
@@ -804,7 +804,7 @@
             "HeroPrice": 2,
             "HeroClass": "Knight",
             "HeroRace": "Feathered",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 2,
@@ -818,7 +818,7 @@
             "HeroPrice": 2,
             "HeroClass": "Knight",
             "HeroRace": "Feathered",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 3,
@@ -832,7 +832,7 @@
             "HeroPrice": 2,
             "HeroClass": "Knight",
             "HeroRace": "Feathered",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         }
     ],
     "Wisper Seer": [
@@ -848,7 +848,7 @@
             "HeroPrice": 2,
             "HeroClass": "Druid",
             "HeroRace": "Feathered",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 2,
@@ -862,7 +862,7 @@
             "HeroPrice": 2,
             "HeroClass": "Druid",
             "HeroRace": "Feathered",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 3,
@@ -876,7 +876,7 @@
             "HeroPrice": 2,
             "HeroClass": "Druid",
             "HeroRace": "Feathered",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         }
     ],
     "Venom": [
@@ -892,7 +892,7 @@
             "HeroPrice": 3,
             "HeroClass": "Assassin",
             "HeroRace": "Dragon",
-            "HeroRarity": "Rare"
+            "HeroRarity": 2
         },
         {
             "HeroLevel": 2,
@@ -906,7 +906,7 @@
             "HeroPrice": 3,
             "HeroClass": "Assassin",
             "HeroRace": "Dragon",
-            "HeroRarity": "Rare"
+            "HeroRarity": 2
         },
         {
             "HeroLevel": 3,
@@ -920,7 +920,7 @@
             "HeroPrice": 3,
             "HeroClass": "Assassin",
             "HeroRace": "Dragon",
-            "HeroRarity": "Rare"
+            "HeroRarity": 2
         }
     ],
     "Dwarf Sniper": [
@@ -936,7 +936,7 @@
             "HeroPrice": 2,
             "HeroClass": "Hunter",
             "HeroRace": "Dwarf",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 2,
@@ -950,7 +950,7 @@
             "HeroPrice": 2,
             "HeroClass": "Hunter",
             "HeroRace": "Dwarf",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 3,
@@ -964,7 +964,7 @@
             "HeroPrice": 2,
             "HeroClass": "Hunter",
             "HeroRace": "Dwarf",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         }
     ],
         "Desperate Doctor": [
@@ -980,7 +980,7 @@
             "HeroPrice": 2,
             "HeroClass": "Warlock",
             "HeroRace": "Glacier",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 2,
@@ -994,7 +994,7 @@
             "HeroPrice": 2,
             "HeroClass": "Warlock",
             "HeroRace": "Glacier",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 3,
@@ -1008,7 +1008,7 @@
             "HeroPrice": 2,
             "HeroClass": "Warlock",
             "HeroRace": "Glacier",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         }
     ],
     "Abyssal Guard": [
@@ -1024,7 +1024,7 @@
             "HeroPrice": 2,
             "HeroClass": "Warrior",
             "HeroRace": "Marine",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 2,
@@ -1038,7 +1038,7 @@
             "HeroPrice": 2,
             "HeroClass": "Warrior",
             "HeroRace": "Marine",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         },
         {
             "HeroLevel": 3,
@@ -1052,7 +1052,7 @@
             "HeroPrice": 2,
             "HeroClass": "Warrior",
             "HeroRace": "Marine",
-            "HeroRarity": "UnCommon"
+            "HeroRarity": 1
         }
     ]
 }

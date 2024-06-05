@@ -1,11 +1,29 @@
 ﻿using static System.Console;
 using Controller;
+using Microsoft.VisualBasic;
 
 class Program
 {
+    private static GameController _game;
     static void Main()
     {
-        Start();
+        List<Position> benchPosition = new List<Position>();
+        for (int i = 0; i < 10; i++)
+        {
+            benchPosition.Add(new Position(i, 0));
+        }
+        List<Position> arenaPosition = new List<Position>();
+        for (int y = 1; y < 10; y++)
+        {
+
+        }
+
+        _game = new GameController
+        (new Arena(),
+        new Bench(benchPosition),
+        GameState.NonInitialized
+        );
+        Start(); ;
     }
 
     public static void Start()
@@ -32,6 +50,7 @@ class Program
             case 2:
                 ExitGame();
                 break;
+                
         }
     }
 
@@ -52,8 +71,78 @@ class Program
 
     private static void RunFirstChoice()
     {
+        System.Console.WriteLine("How Many Player are Playing? max 8");
+        int ActivePlayer = Convert.ToInt32(Console.ReadLine());
+        _game.SetActivePlayer(ActivePlayer);
+        MenuBattle();
+    }
+    private static void MenuBattle()
+    {
         CommunityPool compoll = new();
         compoll.OpenCommunityPool(GameState.Preparation);
+        _game.SetGameState(GameState.Preparation);
+        string prompt = "Welcome to Auto Chess, what do you want to do?";
+        string[] options = { "Arena", "Bench", "Shop", "Backpack", "Level Up", "Exit" };
+        var mainMenu = new Program(prompt, options);
+        int selectedIndex = mainMenu.Run();
+        switch (selectedIndex)
+        {
+            case 0:
+                RunFirstChoice();
+                break;
+            case 1:
+                Tutorial();
+                break;
+            case 2:
+                Shop();
+                break;
+        }
+    }
+
+    private static void Shop()
+    {
+        _game.GenerateHeroesOnStore(_game.GameState);
+        Dictionary<string, List<HeroData>> heroPair = _game.GenerateHeroesOnStore(_game.GameState);
+        string prompt = "Available Heroes:\n---------------------------------- \n| Hero Name      | Rarity | Price |";
+        string [] options = new string[5];
+        int indexArray = 0;
+        foreach (var hero in heroPair)
+        {
+            int i = 0;
+            foreach (var value in hero.Value)
+            {
+                if (i == 0)
+                {
+                    Console.WriteLine($"| {hero.Key,-16} | {value.HeroLevel,-5} | {value.HeroRarity,-8} | {value.HeroPrice,-5} |");
+                    options[indexArray] = hero.Key;
+                    indexArray++;
+                }
+                i++;
+            }
+        }
+        //Display hero data in a table-like format
+        var mainMenu = new Program(prompt, options);
+        int selectedIndex = mainMenu.Run();
+        switch (selectedIndex)
+        {
+            case 0:
+                //_game.OnPurchaseHero(options[0]);
+                MenuBattle();
+                break;
+            case 1:
+                MenuBattle();
+                break;
+            case 2:
+                MenuBattle();
+                break;
+            case 3:
+                MenuBattle();
+                break;
+            case 4:
+                MenuBattle();
+                break;
+        }
+
     }
 
     private int SelectedIndex;

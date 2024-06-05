@@ -22,7 +22,7 @@ public class HeroData
     public bool IsEquipItem{get; private set;}
     public bool IsDroppingItem{get; private set;}
     public int AvailableToPurchase{get; private set;}
-    public HeroData(int heroLevel, int heroHp, int armor, int magicResistance, int heroPrice, int damageToPlayer, double atk, double atkSpeed, int availableToPurchase)
+    public HeroData(int heroLevel, int heroHp, int armor, int magicResistance, int heroPrice, int damageToPlayer, double atk, double atkSpeed, int availableToPurchase, HeroClass heroClass, HeroRace heroRace, HeroRarity heroRarity, HeroState heroState)
     {
         HeroLevel = heroLevel;
         HeroHp = heroHp;
@@ -33,6 +33,10 @@ public class HeroData
         Atk = atk;
         AtkSpeed = atkSpeed;
         AvailableToPurchase = availableToPurchase;
+        HeroClass = heroClass;
+        HeroRace = HeroRace;
+        HeroRarity = heroRarity;
+        HeroState = heroState;
     }
     public bool EquiptItem(GameState gameState, bool isEquipItem)
     {

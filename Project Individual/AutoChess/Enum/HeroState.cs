@@ -1,7 +1,7 @@
 public enum HeroState
 {
-    OnCommunityPool,
-    OnBench,
-    OnBoard,
-    Dead
+    OnCommunityPool = 0,
+    OnBench = 1,
+    OnBoard = 2,
+    Dead = 3
 }
