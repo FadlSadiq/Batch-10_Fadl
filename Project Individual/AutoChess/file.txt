@@ -1,0 +1,3 @@
+2024-06-05 14:31:44.2537|DEBUG|AutoChess.Program|Game Has Started
+2024-06-05 14:31:44.2679|INFO|AutoChess.Program|Mainmenu Choosing
+2024-06-05 14:31:46.6969|INFO|AutoChess.Program|Mainmenu ExitGame

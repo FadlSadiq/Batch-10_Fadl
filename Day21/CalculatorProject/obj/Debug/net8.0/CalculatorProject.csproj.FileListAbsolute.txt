@@ -1,0 +1,15 @@
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\bin\Debug\net8.0\CalculatorProject.exe
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\bin\Debug\net8.0\CalculatorProject.deps.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\bin\Debug\net8.0\CalculatorProject.runtimeconfig.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\bin\Debug\net8.0\CalculatorProject.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\bin\Debug\net8.0\CalculatorProject.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\CalculatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\CalculatorProject.AssemblyInfoInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\CalculatorProject.AssemblyInfo.cs
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\CalculatorProject.csproj.CoreCompileInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\CalculatorProject.sourcelink.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\CalculatorProject.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\refint\CalculatorProject.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\CalculatorProject.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\CalculatorProject.genruntimeconfig.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day21\CalculatorProject\obj\Debug\net8.0\ref\CalculatorProject.dll

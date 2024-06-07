@@ -1,0 +1,15 @@
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\bin\Debug\net8.0\SingletonAdapter.exe
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\bin\Debug\net8.0\SingletonAdapter.deps.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\bin\Debug\net8.0\SingletonAdapter.runtimeconfig.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\bin\Debug\net8.0\SingletonAdapter.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\bin\Debug\net8.0\SingletonAdapter.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\SingletonAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\SingletonAdapter.AssemblyInfoInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\SingletonAdapter.AssemblyInfo.cs
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\SingletonAdapter.csproj.CoreCompileInputs.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\SingletonAdapter.sourcelink.json
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\SingletonAdapter.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\refint\SingletonAdapter.dll
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\SingletonAdapter.pdb
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\SingletonAdapter.genruntimeconfig.cache
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Day23\SingletonAdapter\obj\Debug\net8.0\ref\SingletonAdapter.dll

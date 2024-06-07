@@ -295,7 +295,7 @@ public class GameController
     {
         this.specialStatHp = specialStatHp;
     }
-    public int CheckPlayerNumber()
+    public int CheckPlayerNumber(List<Player> _players)
     {
         int CountPlayer = _players.Count;
         return CountPlayer;

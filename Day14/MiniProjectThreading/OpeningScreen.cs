@@ -8,7 +8,7 @@ public class OpeningScreen
             Console.Write($"{opening[i]}");
             Thread.Sleep(TimeSpan.FromSeconds(0.1));
         }
-        string input = Console.ReadLine();
-        System.Console.WriteLine($"Welcome to AutoChess{input}");
+        Console.ReadKey(true);
+        System.Console.WriteLine($"\nWelcome to AutoChess");
     }
 }

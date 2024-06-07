@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "OeeKaJqFVvk=",
+  "dgSpecHash": "2gI47bYMNm0=",
   "success": true,
   "projectFilePath": "C:\\Fadl\\VsCode\\C#\\Tugas Bootcamp\\Batch-10_Fadl\\Project Individual\\AutoChess\\AutoChess.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\drwizz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+    "C:\\Users\\drwizz\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\drwizz\\.nuget\\packages\\nlog\\5.3.2\\nlog.5.3.2.nupkg.sha512",
+    "C:\\Users\\drwizz\\.nuget\\packages\\nlog.config\\4.7.15\\nlog.config.4.7.15.nupkg.sha512",
+    "C:\\Users\\drwizz\\.nuget\\packages\\nlog.schema\\4.7.15\\nlog.schema.4.7.15.nupkg.sha512"
   ],
   "logs": []
 }

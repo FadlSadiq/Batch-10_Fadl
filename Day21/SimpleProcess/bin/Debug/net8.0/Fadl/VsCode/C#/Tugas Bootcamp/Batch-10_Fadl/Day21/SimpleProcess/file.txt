@@ -1,0 +1,6 @@
+2024-06-05 14:09:31.3249|DEBUG|SimpleProcess.Program|Starting Robot
+2024-06-05 14:09:31.3401|INFO|SimpleProcess.Program|Starting Walk
+2024-06-05 14:09:31.3430|INFO|SimpleProcess.Robot|left leg move
+2024-06-05 14:09:31.3430|INFO|SimpleProcess.Robot|right leg move
+2024-06-05 14:09:31.3430|INFO|SimpleProcess.Robot|walk one step
+2024-06-05 14:09:31.3430|INFO|SimpleProcess.Program|Program Finished

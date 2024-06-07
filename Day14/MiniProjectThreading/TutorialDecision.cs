@@ -1,4 +1,3 @@
-namespace MiniProjectThreading;
 public class TutorialDecision
 {
     public void Decision(string decision)

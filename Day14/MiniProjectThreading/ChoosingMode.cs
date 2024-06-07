@@ -6,5 +6,6 @@ public class ChoosingMode
         System.Console.WriteLine("Pick your Mode\n - Play \n - Quit");
         string input = Console.ReadLine();
         System.Console.WriteLine($"{input}");
+        
     }
 }

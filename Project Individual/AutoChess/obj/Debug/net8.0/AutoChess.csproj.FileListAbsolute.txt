@@ -16,3 +16,5 @@ C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Project Individual\AutoChess\obj\
 C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Project Individual\AutoChess\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Project Individual\AutoChess\obj\Debug\net8.0\AutoChess.csproj.AssemblyReference.cache
 C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Project Individual\AutoChess\obj\Debug\net8.0\AutoChess.csproj.Up2Date
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Project Individual\AutoChess\bin\Debug\net8.0\NLog.config
+C:\Fadl\VsCode\C#\Tugas Bootcamp\Batch-10_Fadl\Project Individual\AutoChess\bin\Debug\net8.0\NLog.dll

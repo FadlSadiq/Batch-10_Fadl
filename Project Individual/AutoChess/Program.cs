@@ -1,12 +1,17 @@
 ﻿using static System.Console;
 using Controller;
 using Microsoft.VisualBasic;
+using NLog;
+using NLog.Config;
 
 class Program
 {
+    public static Logger logger = LogManager.GetCurrentClassLogger();
+
     private static GameController _game;
     static void Main()
     {
+        LogManager.Configuration = new XmlLoggingConfiguration("nLog.Config");
         List<Position> benchPosition = new List<Position>();
         for (int i = 0; i < 10; i++)
         {
@@ -29,11 +34,13 @@ class Program
     public static void Start()
     {
         Title = "AUTO CHESS";
+        logger.Debug("Game Has Started");
         RunMainMenu();
     }
 
     internal static void RunMainMenu()
     {
+        logger.Info("Mainmenu Choosing");
         string prompt = "Welcome to Auto Chess, what do you want to do?";
         string[] options = { "Play", "Tutorial", "Exit" };
         Program mainMenu = new(prompt, options);
@@ -56,6 +63,7 @@ class Program
 
     private static void ExitGame()
     {
+        logger.Info("Mainmenu ExitGame");
         WriteLine("\nPress any key to exit...");
         ReadKey(true);
         Environment.Exit(0);
