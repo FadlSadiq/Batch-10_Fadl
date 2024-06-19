@@ -1,5 +1,6 @@
 public class Bench : Board
 {
+    public Guid BenchID { get; set; }
     public override bool IsPositionAvailable(GameState gameState, List<Position> boardPosition)
     {
         bool result = false;
@@ -18,6 +19,7 @@ public class Bench : Board
     }
     public Bench(List<Position> positionAvailable)
     {
+        BenchID = new Guid();
         _boardPosition = positionAvailable;
     }
     public List<Position> _GetBenchPosition()

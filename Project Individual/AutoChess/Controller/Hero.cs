@@ -1,12 +1,12 @@
 using Interface;
 public class Hero : IHero
 {
-    public int HeroId {get; private set;}
+    public Guid HeroId {get; private set;}
     public string HeroName {get; private set;}
 
-    public Hero(int heroId, string heroName)
+    public Hero(string heroName)
     {
-        HeroId = heroId;
+        HeroId = new Guid();
         HeroName = heroName;
     }
 

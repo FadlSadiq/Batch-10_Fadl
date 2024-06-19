@@ -1,11 +1,13 @@
 public class ItemData
 {
-    public string ItemDesc {get; private set;}
+    public string ItemAttributes {get; private set;}
+    public string ItemEffect {get; private set;}
     public bool IsEquipped {get; private set;}
 
-    public ItemData(string itemDesc, bool isEquipped)
+    public ItemData(string itemAttributes, string itemEffect, bool isEquipped)
     {
-        ItemDesc = itemDesc;
+        ItemAttributes = itemAttributes;
+        ItemEffect = itemEffect;
         IsEquipped = isEquipped;
     }
     public bool UpdateEquipStatus(GameState gameState, bool isEquipped)

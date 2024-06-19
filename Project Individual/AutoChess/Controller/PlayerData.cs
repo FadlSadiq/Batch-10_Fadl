@@ -2,24 +2,19 @@ using System;
 using System.Collections.Generic;
 using Interface;
 
-public class PlayerData : IPlayer
+public class PlayerData
 {
-    public int PlayerId { get; private set; }
-    public string PlayerName { get; private set; }
     public int Gold { get; private set; }
     public int Level { get; private set; }
     public int Experience { get; private set; }
     public int ExperienceRequired { get; private set; }
-    public int HeroPossession { get; private set; }
     public int PlayerHp { get; private set; }
     public int WinStreak { get; private set; }
     private Dictionary<int, bool> roundResult;
     public bool IsWinningGame { get; private set; }
 
-    public PlayerData(int playerId, string playerName, int gold, int level, int experience, int playerHp)
+    public PlayerData(int gold, int level, int experience, int playerHp)
     {
-        PlayerId = playerId;
-        PlayerName = playerName;
         Gold = gold;
         Level = level;
         Experience = experience;
@@ -49,7 +44,6 @@ public class PlayerData : IPlayer
     public bool UpdatePlayerLevel(int level)
     {
         Level += level;
-        HeroPossession++;
         ExperienceRequired += 5;
         Console.WriteLine($"Player has leveled up to {Level}");
         return true;

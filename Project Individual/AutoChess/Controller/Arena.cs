@@ -2,6 +2,7 @@ using System.Drawing;
 
 public class Arena : Board
 {
+    public Guid ArenaID { get; set; }
     public override bool IsPositionAvailable(GameState gameState, List<Position> boardPosition)
     {
         bool result = false;
@@ -18,12 +19,10 @@ public class Arena : Board
         }
         return result;
     }
-    public Arena()
-    {
-        
-    }
+    
     public Arena(List<Position> positionAvailable)
     {
+        ArenaID = new Guid();
         _boardPosition = positionAvailable;
     }
     public List<Position> GetBoardPosition()

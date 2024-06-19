@@ -1,6 +1,6 @@
 namespace Interface;
 public interface IItem
 {
-    public int ItemId {get;}
+    public Guid ItemId {get;}
     public string ItemName {get;}
 }

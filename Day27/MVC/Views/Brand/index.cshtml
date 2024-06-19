@@ -1,0 +1,37 @@
+@model List<Brand>
+<a class="btn btn-primary" asp-controller="Brand" asp-action="Create">Create</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Brand Id
+            </th>
+            <th>
+                Brand Name
+            </th>
+            <th>
+                Description
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model)
+        {
+            <tr>
+                <th>
+                    @i.BrandId
+                </th>
+                <th>
+                    @i.BrandName
+                </th>
+                <th>
+                    @i.Description
+                </th>
+                <th>
+                <a class="btn btn-info" asp-controller="Brand" asp-action="Edit" asp-route-id="@i.BrandId">Edit</a>
+                <a class="btn btn-danger" asp-controller="brand" asp-action="Delete">Delete</a>
+                </th>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,11 +1,13 @@
-public class Item
+using Interface;
+
+public class Item : IItem
 {
-    public int ItemId {get; private set;}
+    public Guid ItemId {get; private set;}
     public string ItemName {get; private set;}
 
-    public Item(int itemId, string itemName)
+    public Item(string itemName)
     {
-        ItemId = itemId;
+        ItemId = new Guid();
         ItemName = itemName;
     }
 }

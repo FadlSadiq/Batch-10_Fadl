@@ -1,0 +1,14 @@
+@model Brand
+<p>Edit Brand Page</p>
+<form method="post">
+    <input asp-for="BrandId" class="form-control">
+    <label>
+        Brand Name
+    </label>
+    <input asp-for="BrandName" class="form-control">
+    <label>
+        Description
+    </label>
+    <input asp-for="Description" class="form-control">
+    <button type="submit">Submit</button>
+</form>

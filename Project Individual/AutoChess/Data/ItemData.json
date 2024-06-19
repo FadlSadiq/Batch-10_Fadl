@@ -1,0 +1,14 @@
+{
+    "Magicka Crystal": [
+        {
+            "ItemAttributes": "+100% Mana restoration on hit",
+            "ItemEffect": ""
+        }
+    ],
+    "Wooden Club": [
+        {
+            "ItemAttributes": "+15% Attack speed",
+            "ItemEffect": ""
+        }
+    ]
+}

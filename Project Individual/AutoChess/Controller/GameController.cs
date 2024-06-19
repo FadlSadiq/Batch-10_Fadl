@@ -21,6 +21,7 @@ public class GameController
     private Dictionary<Arena, List<IHero>> herosOnArena;
     private Dictionary<Bench, List<IHero>> herosOnBench;
     private Dictionary<IItem, ItemData> itemData;
+    private Dictionary<Arena, IItem> ItemDrop;
     private Dictionary<IHero, IItem> itemEquipped;
     private Dictionary<IHero, Board> herosPosition;
     private Dictionary<IBackpack, List<IItem>> itemStored;
@@ -47,10 +48,6 @@ public class GameController
     public Func<IHero, IItem, bool> OnCheckEquipItem;
     public Func<int, bool> ResultRound;
     public Predicate<Board> OnMoveHero;
-    public GameController()
-    {
-        
-    }
     public GameController(Arena arena, Bench bench, GameState gameState, int maxPlayerNumber = 8, int maxRound = 50)
     {
         _players = new();
@@ -128,6 +125,10 @@ public class GameController
     public List<IHero> GetHeroOnBench(Bench bench)
     {
         return herosOnBench[bench];
+    }
+    public IItem GetItemDrop(Arena arena)
+    {
+        return ItemDrop[arena];
     }
     public ItemData GetItemData(IItem item)
     {
@@ -275,6 +276,10 @@ public class GameController
     {
         this.itemData = itemData;
     }
+    public void SetItemDrop(Dictionary<Arena, IItem> ItemDrop)
+    {
+        this.ItemDrop = ItemDrop;
+    }
     public void SetItemEquipped(Dictionary<IHero, IItem> itemEquipped)
     {
         this.itemEquipped = itemEquipped;
@@ -341,27 +346,131 @@ public class GameController
             AutoAttack();
         }
     }
-    public void AutoAttack()
+    public void RemoveDeadHero(Arena arena, IHero hero)
     {
-        
+         if (herosOnArena.TryGetValue(arena, out List<IHero> heroList))
+        {
+            // Use LINQ to find the hero in the list
+            IHero heroToRemove = heroList.FirstOrDefault(h => h.HeroName == hero.HeroName);
+
+            if (heroToRemove != null)
+            {
+                heroList.Remove(heroToRemove);
+                Console.WriteLine($"Hero {hero.HeroName} was removed from arena.");
+            }
+            else
+            {
+                Console.WriteLine($"Hero {hero.HeroName} was not removed from arena.");
+            }
+        }
+        else
+        {
+            Console.WriteLine($"Arena {arena.ArenaID} not found.");
+        }
+
     }
+    public async Task AutoAttack(IPlayer player, IHero hero)
+	{
+        HeroData newHeroData = heroData[hero];
+		if(newHeroData.HeroHp <= 0)
+		{
+			RemoveDeadHero(playerArena[player], hero);
+		}
+		if(newHeroData.HeroHp <= newHeroData.Atk)
+		{
+			piece.Skill(this);
+			OnHeroSkill?.Invoke(piece);
+			await Task.Delay(200);
+		}
+		if(GetAllEnemyId(player, piece).Count() == 0)
+		{
+			bool move = true;
+			while(move)
+			{
+				int[] boardSize = GetBoardSize();
+				int x = new Random().Next(0, boardSize[0]);
+				int y = new Random().Next(0, boardSize[1]);
+				var newPosition = new Position(x, y);
+				if(IsPositionEmpty(newPosition))
+				{
+					UpdateHeroPosition(player, piece.PieceId, newPosition);
+					move = false;
+				}
+			}
+		}
+		else
+		{
+			foreach(var enemyId in GetAllEnemyId(player, piece))
+			{
+				if(TryGetPieceById(enemyId, out IPiece? enemy) && enemy!.Hp > 0)
+				{
+					((Hero)piece).AttackEnemy(enemy!);
+				}
+			}
+		}
+		await Task.Delay(1000);
+	}
     public void SetMaxHeroOnBoard(IPlayer player)
     {
-
+        maxHeroOnBoard[player] = playerData[player].Level;
     }
-    public void AddSpecialHeroStateHP(IPlayer player, List<IHero> hero, Board board)
-    {
+    // public void AddSpecialHeroStateHP(IPlayer player, List<IHero> hero, Board board)
+    // {
 
-    }
+    // }
     public void AddBot(List<IHero> heroOnBoard, Board board, int currentRound)
     {
         if (currentRound % 5 == 0)
         {
-
+            //deserialize JSON for bot
         }
     }
-    public void RandomItemDrop(IHero bot, IItem item)
+    public void RandomItemBot(IHero bot, IItem item)
     {
+        heroData[bot].UpdateDroppingItem(true);
+        string heroName;
+        string result;
+        using (StreamReader sr = new StreamReader("../AutoChess/Data/HeroBackUp.Json"))
+        {
+            result = sr.ReadToEnd();
+            Dictionary<string, List<HeroData>> heroes = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, List<HeroData>>>(result);
+            Random rnd = new Random();
+            HashSet<int> chosenIndices = new HashSet<int>(); // To keep track of chosen indices
+            int heroesCount = heroes.Count;
 
+            // Ensure we select 5 unique heroes or less if there are fewer heroes available
+            int heroIndex;
+            do
+            {
+                heroIndex = rnd.Next(0, heroesCount);
+            } while (chosenIndices.Contains(heroIndex)); // Ensure uniqueness
+
+            chosenIndices.Add(heroIndex);
+            KeyValuePair<string, List<HeroData>> heroPair = heroes.ElementAt(heroIndex);
+            heroName = heroPair.Key;
+        }
+        Hero newHero = new(heroName);
+        string itemName;
+        using (StreamReader sr = new StreamReader("../AutoChess/Data/ItemData.Json"))
+        {
+            result = sr.ReadToEnd();
+            Dictionary<string, ItemData> items = Newtonsoft.Json.JsonConvert.DeserializeObject<Dictionary<string, ItemData>>(result);
+            Random rnd = new Random();
+            HashSet<int> chosenIndices = new HashSet<int>(); // To keep track of chosen indices
+            int itemCount = items.Count;
+
+            // Ensure we select 5 unique heroes or less if there are fewer heroes available
+            int itemIndex;
+            do
+            {
+                itemIndex = rnd.Next(0, itemCount);
+            } while (chosenIndices.Contains(itemIndex)); // Ensure uniqueness
+
+            chosenIndices.Add(itemIndex);
+            KeyValuePair<string, ItemData> itemPair = items.ElementAt(itemIndex);
+            itemName = itemPair.Key;
+        }
+        Item newItem = new(itemName);
+        itemEquipped.Add(newHero, newItem);
     }
 }
